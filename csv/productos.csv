@@ -1,0 +1,31 @@
+Name,Internal Reference,Sales Price,Cost
+Alimento para perro adulto 3kg,ALI001,45.00,32.00
+Alimento para perro cachorro 3kg,ALI002,48.00,34.00
+Alimento para gato adulto 1kg,ALI003,22.00,15.00
+Alimento para gato esterilizado 1kg,ALI004,28.00,19.00
+Alimento para perro raza pequeña 3kg,ALI005,52.00,37.00
+Alimento para gato cachorro 1kg,ALI006,25.00,17.00
+Snacks para perros,ALI007,12.00,7.00
+Snacks para gatos,ALI008,10.00,6.00
+Shampoo para perros,HIG001,25.00,16.00
+Shampoo para gatos,HIG002,23.00,15.00
+Jabon antipulgas,HIG003,18.00,11.00
+Limpiador de oidos,HIG004,20.00,12.00
+Pasta dental para mascotas,HIG005,16.00,9.00
+Cepillo para mascotas,HIG006,14.00,8.00
+Talco para mascotas,HIG007,17.00,10.00
+Collar para perros,ACC001,20.00,12.00
+Collar para gatos,ACC002,15.00,9.00
+Correa para perros,ACC003,28.00,17.00
+Plato para comida,ACC004,18.00,10.00
+Cama para mascotas,ACC005,85.00,60.00
+Juguete para perros,ACC006,15.00,8.00
+Juguete para gatos,ACC007,12.00,7.00
+Transportador para mascotas,ACC008,95.00,68.00
+Arena sanitaria para gatos,ACC009,30.00,21.00
+Peine para mascotas,ACC010,18.00,10.00
+Termometro veterinario,MVE001,35.00,22.00
+Gasas esteriles,MVE002,12.00,7.00
+Guantes descartables,MVE003,20.00,12.00
+Suero fisiologico,MVE004,15.00,9.00
+Vendas veterinarias,MVE005,10.00,5.00

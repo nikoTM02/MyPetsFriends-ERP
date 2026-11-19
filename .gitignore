@@ -1,0 +1,21 @@
+
+# Variables y secretos
+.env
+
+# Datos locales
+backups/
+data/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+__pycache__/
+*.pyc
+
+# Configuración local
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
